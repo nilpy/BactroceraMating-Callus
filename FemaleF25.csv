@@ -1,0 +1,19 @@
+Line,Select,Day,Type,Time,Remarks,Time_End,Remarks_2,Isofemale,Callus,Callus3
+R1_Day,Once before 4,Thursday,Mating,15:07,,15:15,,1_1,75,3
+R1_Day,Once before 4,Thursday,Mating,15:19,,15:40,,1_2,95,3
+R1_Day,Once before 4,Thursday,Mating,15:42,,,,1_3,100,try
+R1_Day,Once before 4,Friday,Mating,15:14,,15:25,,1_4,100,try
+R1_Day,Once before 4,Friday,Mating,15:38,,16:07,,1_5,25,1
+R1_Day,Once before 4,Thursday,Mating,16:47,,,,1_6,50,2
+R1_Day,Once before 4,Friday,Mating,16:17,,,,1_7,95,3
+R1_Day,Once before 4,Friday,Mating,16:45,,,,1_8,95,3
+R2_Day,Once before 4,Thursday,Mating,15:55,,16:05,,2_1,<75,3
+R2_Day,Once before 4,Thursday,Mating,16:16,,16:38,,2_2,100,try
+R2_Day,Once before 4,Thursday,Mating,16:42,,,,2_3,95,3
+R2_Day,Once before 4,Thursday,Mating,16:58,,,,2_4,75,3
+R2_Day,Once before 4,Friday,Mating,16:07,,16:30,,2_5,95,3
+R2_Day,Once before 4,Friday,Mating,16:28,,16:45,,2_6,95,3
+R2_Day,Once before 4,Friday,Mating,16:28,,,,2_7,,
+R3_Day,Once before 4,Thursday,Mating,16:25,,,,3_1,100,try
+R3_Day,Once before 4,Thursday,Mating,16:25,,,,3_2,5,1
+R3_Day,Once before 4,Friday,Mating,16:54,,,,3_3,25,1
